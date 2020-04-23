@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Review made
+Everything is fine now 
+Happy new day
+Keep moving forward!
+Learning Deep learning is fun !!!
